@@ -10,7 +10,7 @@ body {
   }
 
 .container{
-    width:100vh; /* variavel de acordo com a tela*/
+    width:100; /* variavel de acordo com a tela*/
     height:100vh; /* variavel de acordo com a tela*/
 
     display:flex; /* variavel de acordo com a tela*/
@@ -24,6 +24,7 @@ body {
     height: 400px;
     background: white;
     color: inherit;
+    text-align: center;
 }
 
 
@@ -66,6 +67,12 @@ body {
 
 h1{
     margin: 28px;
+}
+
+.fa{
+    position: absolute;
+    margin-top: 16px;
+    margin-left: 12px;
 }
 
   form {
