@@ -10,7 +10,7 @@ body {
   }
 
 .container{
-    width:100; /* variavel de acordo com a tela*/
+    width:100vh; /* variavel de acordo com a tela*/
     height:100vh; /* variavel de acordo com a tela*/
 
     display:flex; /* variavel de acordo com a tela*/
